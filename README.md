@@ -2,18 +2,18 @@
 
 ![banner](./assets/banner.png)
 
-# Architecture
+## Architecture
 
-# Testing and Development
+## Testing and Development
 
-## Dependencies
+### Dependencies
 
-## Setup
+### Setup
 
-## Organization and Workflow
+### Organization and Workflow
 
-## Running the Tests
+### Running the Tests
 
-# Deployment
+## Deployment
 
-# License
+## License
