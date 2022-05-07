@@ -1,6 +1,6 @@
 # Chainlink Hackaton
 
-![banner](./assets/banner.png◊)
+![banner](./assets/banner.png)
 
 # Architecture
 
