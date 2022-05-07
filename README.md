@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin convallis ultrici
 
 Sed pharetra fringilla hendrerit. Suspendisse diam risus, lobortis sed sollicitudin nec, ultrices in nibh. Phasellus et massa ac odio iaculis accumsan. Phasellus mollis felis id purus aliquet, nec commodo mauris lacinia. Aenean eget nulla tortor. Suspendisse potenti. Phasellus commodo condimentum mi, vestibulum facilisis metus. Maecenas imperdiet nisi vel tellus porta, ut lacinia est ultricies. Pellentesque ligula diam, elementum sit amet laoreet quis, lacinia sed felis.
 
-## Architecture (High Level)
+## Architecture
 
 ![architecture_draft](https://user-images.githubusercontent.com/8485620/167255260-799c0504-33da-4359-8530-50370e63fd05.png)
 
