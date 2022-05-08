@@ -12,7 +12,7 @@ Sed pharetra fringilla hendrerit. Suspendisse diam risus, lobortis sed sollicitu
 
 ## Architecture
 
-![arch](https://user-images.githubusercontent.com/8485620/167277192-ada44519-c2ad-4096-af04-0f2f8966daa6.png)
+![arch](https://user-images.githubusercontent.com/8485620/167291512-554702c4-53c4-46b1-8084-6ed9b0b8f567.png)
 
 ## Testing and Development
 
