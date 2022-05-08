@@ -12,7 +12,7 @@ Sed pharetra fringilla hendrerit. Suspendisse diam risus, lobortis sed sollicitu
 
 ## Architecture
 
-[architecture.pdf](https://github.com/defiforpeople/chainlink-hackathon/files/8646152/architecture.pdf)
+![arch](https://user-images.githubusercontent.com/8485620/167277192-ada44519-c2ad-4096-af04-0f2f8966daa6.png)
 
 ## Testing and Development
 
