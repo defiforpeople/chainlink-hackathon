@@ -4,11 +4,19 @@
 
 ## Problem
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin convallis ultricies nisl nec condimentum. Sed sollicitudin massa lorem, eleifend sodales magna faucibus non. In hac habitasse platea dictumst. Nulla viverra diam vel augue gravida pulvinar. In id rutrum mauris. Etiam eleifend orci lectus, nec scelerisque mauris tempus at. Fusce dictum egestas mollis. 
+Start using DeFi can be hard because the amount of information and things that can be done are overwhelming.
+
+The fact that it carries a new paradigm that make some concepts being difficult to digest for beginner users.
+
+In adittion, like is something new and people are starting to educate themselves in this area, there are a lot of scammers who take advantege of this situation, creating a trust crisis for the content creators.
 
 ## Solution
 
-Sed pharetra fringilla hendrerit. Suspendisse diam risus, lobortis sed sollicitudin nec, ultrices in nibh. Phasellus et massa ac odio iaculis accumsan. Phasellus mollis felis id purus aliquet, nec commodo mauris lacinia. Aenean eget nulla tortor. Suspendisse potenti. Phasellus commodo condimentum mi, vestibulum facilisis metus. Maecenas imperdiet nisi vel tellus porta, ut lacinia est ultricies. Pellentesque ligula diam, elementum sit amet laoreet quis, lacinia sed felis.
+We want to be the first step in DeFi for a newcomer.
+
+In a ecosystem where there are so much information (and erroneous information), we will provide different explained strategies, and implement them in an automated way, so users only need to choose the strategy after deciding which one is better for them and deposit their crypto assets into our smart contract, and after that, the strategy will be executed with its respective logic. 
+
+We offer different DeFi strategies in an easy and explained way, so users can apply the strategies that we teach them and by investing safer and faster.
 
 ## Architecture
 
