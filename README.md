@@ -20,7 +20,7 @@ We offer different DeFi strategies in an easy and explained way, so users can ap
 
 ## Architecture
 
-![arch](https://user-images.githubusercontent.com/8485620/167291578-be9ecfe8-c6ef-4b2a-8a5f-cf40ff4984e5.png)
+![arch_](https://user-images.githubusercontent.com/8485620/169204748-5e1574df-4b8b-4b3b-a3a5-637fd5eb315a.png)
 
 ## Testing and Development
 
