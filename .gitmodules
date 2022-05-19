@@ -1,0 +1,6 @@
+[submodule "packages/frontend"]
+	path = packages/frontend
+	url = git@github.com:defiforpeople/frontend.git
+[submodule "packages/blockchain"]
+	path = packages/blockchain
+	url = git@github.com:defiforpeople/blockchain.git
